@@ -16,14 +16,6 @@ counties <- c(kalamazoo, calhoun, barry)
 #length(kalamazoo$meta)
 #str(kalamazoo$meta)
 
-station_summary <- function(station) {
-  data.frame(
-    sid = as.character(station$meta$sid),
-    name = as.character(station$meta$name),
-    longitude = as.numeric(station$meta$ll[1]),
-    latitude = as.numeric(station$meta$ll[2])
-  )
-}
 
 station_summary <- function(input) {
   data.frame(
