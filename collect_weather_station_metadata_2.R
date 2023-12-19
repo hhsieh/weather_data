@@ -7,7 +7,7 @@ kalamazoo <- rjson::fromJSON(file = "Kalamazoo_County_metadata.json")
 calhoun <- rjson::fromJSON(file = "Calhoun_County_metadata.json")
 barry <- rjson::fromJSON(file = "Barry_County_metadata.json")
 
-counties <- c(kalamazoo, calhoun, barry)
+counties <- c(kalamazoo$meta, calhoun$meta, barry$meta)
 
 #kalamazoo$meta[[1]]$county
 #kalamazoo$meta[[31]]$sids
@@ -30,11 +30,12 @@ station_summary <- function(input) {
 }
 
 
-result_list <- lapply(counties$meta, station_summary)
+result_list <- lapply(counties, station_summary)
 
 station_data <- do.call(rbind, result_list) %>%
-  group_by(state, name, uid, longitude, latitude) %>%
-  summarise(sid = paste(sid, collapse = ','))
+  group_by(state, name, uid, longitude, latitude) 
+
+
 tail(station_data)
 head(station_data)
 
