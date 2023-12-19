@@ -46,3 +46,5 @@ station_data <- do.call(rbind, result_list) %>%
 tail(station_data)
 head(station_data)
 
+write.csv(station_data, 'stations_metadata_of_three_counties.csv', row.names = FALSE)
+
