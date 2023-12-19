@@ -1,0 +1,299 @@
+{
+  "meta": [
+    {
+      "uid": 9694,
+      "ll": [
+        -85.0833,
+        42.103
+      ],
+      "sids": [
+        "201122 2",
+        "USC00201122 6",
+        "BURM4 7"
+      ],
+      "state": "MI",
+      "elev": 960,
+      "name": "BURLINGTON"
+    },
+    {
+      "uid": 9717,
+      "ll": [
+        -84.7732,
+        42.24941
+      ],
+      "sids": [
+        "200094 2",
+        "USC00200094 6",
+        "ABNM4 7"
+      ],
+      "state": "MI",
+      "elev": 935,
+      "name": "ALBION"
+    },
+    {
+      "uid": 9718,
+      "ll": [
+        -84.9696,
+        42.26477
+      ],
+      "sids": [
+        "205195 2",
+        "USC00205195 6",
+        "MARM4 7"
+      ],
+      "state": "MI",
+      "elev": 895,
+      "name": "MARSHALL"
+    },
+    {
+      "uid": 9719,
+      "ll": [
+        -85.03333,
+        42.25
+      ],
+      "sids": [
+        "201425 2"
+      ],
+      "state": "MI",
+      "elev": 889,
+      "name": "CERESCO"
+    },
+    {
+      "uid": 9720,
+      "ll": [
+        -85.16667,
+        42.25
+      ],
+      "sids": [
+        "94829 1"
+      ],
+      "state": "MI",
+      "name": "FORT CUSTER"
+    },
+    {
+      "uid": 9733,
+      "ll": [
+        -85.1542,
+        42.3319
+      ],
+      "sids": [
+        "200555 2",
+        "BCRM4 7"
+      ],
+      "state": "MI",
+      "elev": 823,
+      "name": "BATTLE CREEK # 3"
+    },
+    {
+      "uid": 9734,
+      "ll": [
+        -85.25,
+        42.3
+      ],
+      "sids": [
+        "14801 1"
+      ],
+      "state": "MI",
+      "name": "BATTLE CREEK KELLOGG FIELD ANG"
+    },
+    {
+      "uid": 9735,
+      "ll": [
+        -85.1975,
+        42.3238
+      ],
+      "sids": [
+        "200554 2",
+        "BTCM4 7"
+      ],
+      "state": "MI",
+      "elev": 815,
+      "name": "BATTLE CREEK # 2"
+    },
+    {
+      "uid": 10273,
+      "ll": [
+        -84.78333,
+        42.38333
+      ],
+      "sids": [
+        "207787 2",
+        "SPRM4 7"
+      ],
+      "state": "MI",
+      "elev": 965,
+      "name": "SPRINGPORT 4 W"
+    },
+    {
+      "uid": 31770,
+      "ll": [
+        -85.24147,
+        42.31192
+      ],
+      "sids": [
+        "14815 1",
+        "200552 2",
+        "BTL 3",
+        "KBTL 5",
+        "USW00014815 6",
+        "USC00200552 6",
+        "USW00014815 32"
+      ],
+      "state": "MI",
+      "elev": 927,
+      "name": "BATTLE CREEK KELLOGG AP"
+    },
+    {
+      "uid": 33069,
+      "ll": [
+        -84.95556,
+        42.25111
+      ],
+      "sids": [
+        "54821 1",
+        "RMY 3",
+        "KRMY 5",
+        "USW00054821 32"
+      ],
+      "state": "MI",
+      "elev": 941,
+      "name": "MARSHALL BROOKS FIELD AP"
+    },
+    {
+      "uid": 34279,
+      "ll": [
+        -85.23008,
+        42.30582
+      ],
+      "sids": [
+        "US1MICN0013 6",
+        "MICN0013 10"
+      ],
+      "state": "MI",
+      "elev": 933,
+      "name": "BATTLE CREEK 0.5 N"
+    },
+    {
+      "uid": 34902,
+      "ll": [
+        -85.2634,
+        42.3678
+      ],
+      "sids": [
+        "200552 2",
+        "USC00200552 6",
+        "BCKM4 7"
+      ],
+      "state": "MI",
+      "elev": 923,
+      "name": "BATTLE CREEK 5NW"
+    },
+    {
+      "uid": 34994,
+      "ll": [
+        -85.15,
+        42.41667
+      ],
+      "sids": [
+        "205193 2",
+        "USC00205193 6"
+      ],
+      "state": "MI",
+      "elev": 990,
+      "name": "MARSHALL"
+    },
+    {
+      "uid": 37286,
+      "ll": [
+        -85.2347,
+        42.08866
+      ],
+      "sids": [
+        "200341 2"
+      ],
+      "state": "MI",
+      "elev": 889,
+      "name": "ATHENS"
+    },
+    {
+      "uid": 37299,
+      "ll": [
+        -85.03333,
+        42.25
+      ],
+      "sids": [
+        "201429 2",
+        "USC00201429 6"
+      ],
+      "state": "MI",
+      "elev": 888,
+      "name": "CERESCO"
+    },
+    {
+      "uid": 37322,
+      "ll": [
+        -84.78333,
+        42.16667
+      ],
+      "sids": [
+        "203912 2"
+      ],
+      "state": "MI",
+      "name": "HOMER"
+    },
+    {
+      "uid": 78871,
+      "ll": [
+        -85.1526,
+        42.22
+      ],
+      "sids": [
+        "cer 13"
+      ],
+      "state": "MI",
+      "elev": 946.8,
+      "name": "ceresco"
+    },
+    {
+      "uid": 78932,
+      "ll": [
+        -84.7741,
+        42.2619
+      ],
+      "sids": [
+        "alb 13"
+      ],
+      "state": "MI",
+      "elev": 948.2,
+      "name": "albion"
+    },
+    {
+      "uid": 100716,
+      "ll": [
+        -85.22736,
+        42.29003
+      ],
+      "sids": [
+        "US1MICN0022 6",
+        "MICN0022 10"
+      ],
+      "state": "MI",
+      "elev": 922,
+      "name": "BATTLE CREEK 0.6 S"
+    },
+    {
+      "uid": 102128,
+      "ll": [
+        -85.24722,
+        42.32778
+      ],
+      "sids": [
+        "US1MICN0021 6",
+        "MICN0021 10"
+      ],
+      "state": "MI",
+      "elev": 883,
+      "name": "SPRINGFIELD 0.6 WNW"
+    }
+  ]
+}

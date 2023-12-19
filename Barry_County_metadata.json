@@ -1,0 +1,268 @@
+{
+  "meta": [
+    {
+      "uid": 9762,
+      "ll": [
+        -85.08333,
+        42.53333
+      ],
+      "sids": [
+        "205754 2"
+      ],
+      "state": "MI",
+      "elev": 879,
+      "name": "NASHVILLE 5S"
+    },
+    {
+      "uid": 9778,
+      "ll": [
+        -85.08333,
+        42.56667
+      ],
+      "sids": [
+        "205749 2"
+      ],
+      "state": "MI",
+      "elev": 889,
+      "name": "NASHVILLE 2S"
+    },
+    {
+      "uid": 9794,
+      "ll": [
+        -85.2364,
+        42.6158
+      ],
+      "sids": [
+        "203663 2",
+        "USC00203663 6",
+        "HSTM4 7"
+      ],
+      "state": "MI",
+      "elev": 787,
+      "name": "HASTINGS 3 SE"
+    },
+    {
+      "uid": 9806,
+      "ll": [
+        -85.28819,
+        42.64208
+      ],
+      "sids": [
+        "203661 2",
+        "USC00203661 6",
+        "HASM4 7"
+      ],
+      "state": "MI",
+      "elev": 821,
+      "name": "HASTINGS"
+    },
+    {
+      "uid": 40355,
+      "ll": [
+        -85.08334,
+        42.53333
+      ],
+      "sids": [
+        "205724 2"
+      ],
+      "state": "MI",
+      "elev": 875,
+      "name": "NASHVILLE 5S"
+    },
+    {
+      "uid": 54058,
+      "ll": [
+        -85.44049,
+        42.6532
+      ],
+      "sids": [
+        "US1MIBR0003 6",
+        "MIBR0003 10"
+      ],
+      "state": "MI",
+      "elev": 782,
+      "name": "MIDDLEVILLE 4.3 SSE"
+    },
+    {
+      "uid": 54059,
+      "ll": [
+        -85.5229,
+        42.66727
+      ],
+      "sids": [
+        "US1MIBR0005 6",
+        "MIBR0005 10"
+      ],
+      "state": "MI",
+      "elev": 798,
+      "name": "MIDDLEVILLE 4.3 SW"
+    },
+    {
+      "uid": 54060,
+      "ll": [
+        -85.0961,
+        42.45113
+      ],
+      "sids": [
+        "US1MIBR0006 6",
+        "MIBR0006 10"
+      ],
+      "state": "MI",
+      "elev": 916,
+      "name": "BELLEVUE 3.9 W"
+    },
+    {
+      "uid": 54061,
+      "ll": [
+        -85.34476,
+        42.67072
+      ],
+      "sids": [
+        "US1MIBR0007 6",
+        "MIBR0007 10"
+      ],
+      "state": "MI",
+      "elev": 798,
+      "name": "HASTINGS 3.2 WNW"
+    },
+    {
+      "uid": 54062,
+      "ll": [
+        -85.53791,
+        42.45066
+      ],
+      "sids": [
+        "US1MIBR0009 6",
+        "MIBR0009 10"
+      ],
+      "state": "MI",
+      "elev": 913,
+      "name": "PLAINWELL 5.4 E"
+    },
+    {
+      "uid": 54063,
+      "ll": [
+        -85.44193,
+        42.71114
+      ],
+      "sids": [
+        "US1MIBR0010 6",
+        "MIBR0010 10"
+      ],
+      "state": "MI",
+      "elev": 895,
+      "name": "MIDDLEVILLE 1.2 E"
+    },
+    {
+      "uid": 54064,
+      "ll": [
+        -85.31609,
+        42.74032
+      ],
+      "sids": [
+        "US1MIBR0012 6",
+        "MIBR0012 10"
+      ],
+      "state": "MI",
+      "elev": 866,
+      "name": "FREEPORT 1.6 S"
+    },
+    {
+      "uid": 54065,
+      "ll": [
+        -85.31606,
+        42.59178
+      ],
+      "sids": [
+        "US1MIBR0013 6",
+        "MIBR0013 10"
+      ],
+      "state": "MI",
+      "elev": 910,
+      "name": "HASTINGS 4.3 SSW"
+    },
+    {
+      "uid": 78926,
+      "ll": [
+        -85.3019,
+        42.535
+      ],
+      "sids": [
+        "pcc 13"
+      ],
+      "state": "MI",
+      "elev": 928,
+      "name": "hastings"
+    },
+    {
+      "uid": 93393,
+      "ll": [
+        -85.47419,
+        42.71196
+      ],
+      "sids": [
+        "US1MIBR0019 6",
+        "MIBR0019 10"
+      ],
+      "state": "MI",
+      "elev": 775,
+      "name": "MIDDLEVILLE 0.5 WSW"
+    },
+    {
+      "uid": 94269,
+      "ll": [
+        -85.4753,
+        42.7151
+      ],
+      "sids": [
+        "US1MIBR0021 6",
+        "MIBR0021 10"
+      ],
+      "state": "MI",
+      "elev": 791,
+      "name": "MIDDLEVILLE 0.5 WNW"
+    },
+    {
+      "uid": 95646,
+      "ll": [
+        -85.28893,
+        42.46234
+      ],
+      "sids": [
+        "US1MIBR0022 6",
+        "MIBR0022 10"
+      ],
+      "state": "MI",
+      "elev": 981,
+      "name": "BATTLE CREEK 11.7 NNW"
+    },
+    {
+      "uid": 96924,
+      "ll": [
+        -85.39162,
+        42.49242
+      ],
+      "sids": [
+        "US1MIBR0020 6",
+        "MIBR0020 10"
+      ],
+      "state": "MI",
+      "elev": 939,
+      "name": "DELTON 1.0 SE"
+    },
+    {
+      "uid": 103615,
+      "ll": [
+        -85.0958,
+        42.67609
+      ],
+      "sids": [
+        "US1MIBR0025 6",
+        "MIBR0025 10"
+      ],
+      "state": "MI",
+      "elev": 873,
+      "name": "WOODLAND 4.0 SSE"
+    }
+  ]
+}
